@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thurunu Oshan</h1>
 <h3 align="center">A passionate fullstak developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oshanpa&label=Profile%20views&color=0e75b6&style=flat" alt="oshanpa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thurunu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thurunu-dev" /> </p>
 
 <p align="center">
 <table align="center">
