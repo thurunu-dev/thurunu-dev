@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to contact me **oshanrajitha672@gmail.com**
+- 📫 How to contact me **thurunuoshan@gmail.com**
 
 - 🤝 I’m available for **Freelancer**
  </td>
